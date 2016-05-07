@@ -1,0 +1,24 @@
+C:\Users\Sebastian\documents\visual studio 2010\Projects\ProyectoTienda\ProyectoTienda\bin\Debug\ProyectoTienda.exe
+C:\Users\Sebastian\documents\visual studio 2010\Projects\ProyectoTienda\ProyectoTienda\bin\Debug\ProyectoTienda.pdb
+C:\Users\Sebastian\documents\visual studio 2010\Projects\ProyectoTienda\ProyectoTienda\obj\x86\Debug\ProyectoTienda.Form1.resources
+C:\Users\Sebastian\documents\visual studio 2010\Projects\ProyectoTienda\ProyectoTienda\obj\x86\Debug\ProyectoTienda.Form2.resources
+C:\Users\Sebastian\documents\visual studio 2010\Projects\ProyectoTienda\ProyectoTienda\obj\x86\Debug\ProyectoTienda.Properties.Resources.resources
+C:\Users\Sebastian\documents\visual studio 2010\Projects\ProyectoTienda\ProyectoTienda\obj\x86\Debug\ProyectoTienda.csproj.GenerateResource.Cache
+C:\Users\Sebastian\documents\visual studio 2010\Projects\ProyectoTienda\ProyectoTienda\obj\x86\Debug\ProyectoTienda.exe
+C:\Users\Sebastian\documents\visual studio 2010\Projects\ProyectoTienda\ProyectoTienda\obj\x86\Debug\ProyectoTienda.pdb
+C:\Users\Sebastian\documents\visual studio 2010\Projects\ProyectoTienda\ProyectoTienda\obj\x86\Debug\ProyectoTienda.Form3.resources
+C:\Users\Sebastian\Documents\Visual Studio 2010\Projects\ProyectoTienda\ProyectoTienda\obj\x86\Debug\ProyectoTienda.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\Visual Studio 2010\Projects\ProyectoTienda\ProyectoTienda\obj\x86\Debug\ProyectoTienda.Form4.resources
+C:\Users\Sebastian\Documents\Visual Studio 2010\Projects\ProyectoTienda\ProyectoTienda\obj\x86\Debug\ProyectoTienda.Form5.resources
+C:\Users\Sebastian\Desktop\avance1SD\ProyectoTienda\ProyectoTienda\obj\x86\Debug\ProyectoTienda.exe
+C:\Users\Sebastian\Desktop\avance1SD\ProyectoTienda\ProyectoTienda\obj\x86\Debug\ProyectoTienda.pdb
+C:\Users\Sebastian\Desktop\avance1SD\ProyectoTienda\ProyectoTienda\bin\Debug\ProyectoTienda.exe
+C:\Users\Sebastian\Desktop\avance1SD\ProyectoTienda\ProyectoTienda\bin\Debug\ProyectoTienda.pdb
+C:\Users\Sebastian\Desktop\avance1SD\ProyectoTienda\ProyectoTienda\obj\x86\Debug\ProyectoTienda.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\avance1SD\ProyectoTienda\ProyectoTienda\obj\x86\Debug\ProyectoTienda.Form1.resources
+C:\Users\Sebastian\Desktop\avance1SD\ProyectoTienda\ProyectoTienda\obj\x86\Debug\ProyectoTienda.Form2.resources
+C:\Users\Sebastian\Desktop\avance1SD\ProyectoTienda\ProyectoTienda\obj\x86\Debug\ProyectoTienda.Form3.resources
+C:\Users\Sebastian\Desktop\avance1SD\ProyectoTienda\ProyectoTienda\obj\x86\Debug\ProyectoTienda.Form4.resources
+C:\Users\Sebastian\Desktop\avance1SD\ProyectoTienda\ProyectoTienda\obj\x86\Debug\ProyectoTienda.Form5.resources
+C:\Users\Sebastian\Desktop\avance1SD\ProyectoTienda\ProyectoTienda\obj\x86\Debug\ProyectoTienda.Properties.Resources.resources
+C:\Users\Sebastian\Desktop\avance1SD\ProyectoTienda\ProyectoTienda\obj\x86\Debug\ProyectoTienda.csproj.GenerateResource.Cache
